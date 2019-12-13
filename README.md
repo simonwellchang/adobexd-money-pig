@@ -2,6 +2,4 @@
 ### `利用Adobe XD建置Money-Pig Prototype Demo`
 
 ## Demo gif
-![Imgur](./Money-Pig/MONEY-PIG-v1.0.gif "money-pig demo" =320x569)
-
-
+![Imgur](./Money-Pig/MONEY-PIG-v1.0.gif "money-pig demo")
